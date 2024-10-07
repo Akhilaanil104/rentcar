@@ -19,7 +19,7 @@ class _SpalshPageState extends State<SpalshPage> {
     await Future.delayed(Duration(seconds: 3)); // Splash duration
     Navigator.pushReplacement(
       context,
-      MaterialPageRoute(builder: (context) => OnboardingPages()), // Navigate to HomePage
+      MaterialPageRoute(builder: (context) => RentACarOnboarding()), // Navigate to HomePage
     );
   }
   
