@@ -19,14 +19,14 @@ class _SpalshPageState extends State<SpalshPage> {
     await Future.delayed(Duration(seconds: 3)); // Splash duration
     Navigator.pushReplacement(
       context,
-      MaterialPageRoute(builder: (context) => OnboardingPages()), // Navigate to HomePage
+      MaterialPageRoute(builder: (context) => OnboardingPage()), // Navigate to HomePage
     );
   }
   
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Color.fromARGB(255, 10, 66, 163),
+      backgroundColor:Color.fromARGB(255, 102, 114, 193).withOpacity(0.6) ,
       body: Center(child: Text("RENTCAR",style: TextStyle(color: Colors.white,fontWeight: FontWeight.bold,fontSize: 36),),),
     );
   }
