@@ -1,6 +1,9 @@
+import 'package:car_rental_app/presentation/pages/cardetails_page.dart';
+import 'package:car_rental_app/presentation/pages/home_page.dart';
 import 'package:car_rental_app/presentation/pages/login_page.dart';
 import 'package:car_rental_app/presentation/pages/onboarding_pages.dart';
 import 'package:car_rental_app/presentation/pages/otpverfication_pages.dart';
+import 'package:car_rental_app/presentation/pages/register_page.dart';
 import 'package:car_rental_app/presentation/pages/spalsh_page.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
@@ -36,6 +39,9 @@ class MyApp extends StatelessWidget {
       '/onboard':(Context)=>OnboardingPage(),
       '/otpPage': (context) => OTPRequestPage(),
       '/verifyOTP': (context) => OTPVerificationPage(),
+      '/register': (context) => RegistrationPage(),
+      '/home': (context) => HomePage(),
+      // '/details': (context) => CarDetailsPage(car: cars[index]),
     },
      
     );
