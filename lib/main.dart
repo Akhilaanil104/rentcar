@@ -1,3 +1,4 @@
+import 'package:car_rental_app/presentation/pages/booknow_page.dart';
 import 'package:car_rental_app/presentation/pages/cardetails_page.dart';
 import 'package:car_rental_app/presentation/pages/home_page.dart';
 import 'package:car_rental_app/presentation/pages/login_page.dart';
@@ -42,6 +43,8 @@ class MyApp extends StatelessWidget {
       '/register': (context) => RegistrationPage(),
       '/home': (context) => HomePage(),
       // '/details': (context) => CarDetailsPage(car: cars[index]),
+      
+
     },
      
     );

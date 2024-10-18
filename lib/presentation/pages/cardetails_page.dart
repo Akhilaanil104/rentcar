@@ -360,6 +360,8 @@ class CarDetailsPage extends StatelessWidget {
                     Center(
                       child: ElevatedButton(
                         onPressed: () {
+                          Navigator.push(context,);
+                          
                           // Navigate to booking logic or page
                         },
                         child: Text('Book Now'),
