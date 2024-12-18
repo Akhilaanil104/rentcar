@@ -65,14 +65,7 @@ cd rentcar</pre>
         </li>
     </ol>
 
-   <h2 style="color: #222; font-size: 1.8em; margin-bottom: 15px;">Project Structure</h2>
-    <pre style="background-color: #eee; padding: 10px; border-radius: 5px; font-family: 'Courier New', monospace;">lib/
-├── main.dart            # Entry point of the app
-├── screens/             # UI screens (e.g., HomePage, CarDetailsPage)
-├── widgets/             # Reusable UI components
-├── services/            # Firebase and Stripe integrations
-├── models/              # Data models for cars and users
-└── blocs/               # State management (Bloc)</pre>
+
 
   <h2 style="color: #222; font-size: 1.8em; margin-bottom: 15px;">Screenshots</h2>
   <p style="margin-bottom: 20px;">Below is an example screenshot from the app:</p>
@@ -87,7 +80,7 @@ cd rentcar</pre>
     <p style="margin-bottom: 20px;">For inquiries or feedback, reach out:</p>
     <ul style="padding-left: 20px; margin-bottom: 20px;">
         <li><strong>Author:</strong> Akhila Anil</li>
-        <li><strong>Email:</strong> (Insert your email here)</li>
+        <li><strong>Email:</strong> akhilaanilkumar104@gmail.com</li>
     </ul>
     <hr style="border: none; height: 1px; background-color: #ddd;">
     <p style="margin-bottom: 20px;">Feel free to explore and contribute to the project. Happy coding! 🎉</p>
