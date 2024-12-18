@@ -67,9 +67,18 @@ cd rentcar</pre>
 
 
 
-  <h2 style="color: #222; font-size: 1.8em; margin-bottom: 15px;">Screenshots</h2>
-  <p style="margin-bottom: 20px;">Below is an example screenshot from the app:</p>
-<img src="assets/images/cars.jpeg" alt="App Screenshot" style="max-width: 100%; border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-bottom: 20px;">
+ <h2 style="color: #222; font-size: 1.8em; margin-bottom: 15px;">Screenshots</h2>
+<p style="margin-bottom: 20px;">Below is an example screenshot from the app:</p>
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <img src="img1.jpg" alt="App Screenshot" style="width: 48%; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <img src="img2.jpg" alt="App Screenshot" style="width: 48%; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <img src="img3.jpg" alt="App Screenshot" style="width: 48%; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <img src="img4.jpg" alt="App Screenshot" style="width: 48%; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <img src="img5.jpg" alt="App Screenshot" style="width: 48%; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <img src="img6.jpg" alt="App Screenshot" style="width: 48%; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+</div>
+
 
    <h2 style="color: #222; font-size: 1.8em; margin-bottom: 15px;">Contributing</h2>
     <p style="margin-bottom: 20px;">Contributions are welcome! Feel free to open issues or submit pull requests to improve the app.</p>
