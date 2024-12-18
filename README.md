@@ -67,17 +67,17 @@ cd rentcar</pre>
 
 
 
- <h2 style="color: #222; font-size: 1.8em; margin-bottom: 15px;">Screenshots</h2>
+<h2 style="color: #222; font-size: 1.8em; margin-bottom: 15px;">Screenshots</h2>
 <p style="margin-bottom: 20px;">Below is an example screenshot from the app:</p>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <img src="img1.jpg" alt="App Screenshot" style="width: 48%; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <img src="img2.jpg" alt="App Screenshot" style="width: 48%; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <img src="img3.jpg" alt="App Screenshot" style="width: 48%; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <img src="img4.jpg" alt="App Screenshot" style="width: 48%; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <img src="img5.jpg" alt="App Screenshot" style="width: 48%; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <img src="img6.jpg" alt="App Screenshot" style="width: 48%; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-</div>
+<img src="img1.jpg" alt="App Screenshot" style="width: 40%; height: 500px; object-fit: cover; border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-bottom: 15px; display: inline-block; margin-right: 15px;">
+<img src="img2.jpg" alt="App Screenshot" style="width: 40%; height: 500px; object-fit: cover; border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-bottom: 15px; display: inline-block; margin-right: 15px;">
+<br>
+<img src="img3.jpg" alt="App Screenshot" style="width: 48%; height: 500px; object-fit: cover; border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-bottom: 15px; display: inline-block; margin-right: 15px;">
+<img src="img4.jpg" alt="App Screenshot" style="width: 48%; height: 500px; object-fit: cover; border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-bottom: 15px; display: inline-block; margin-right: 15px;">
+<img src="img5.jpg" alt="App Screenshot" style="width: 48%; height: 500px; object-fit: cover; border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-bottom: 15px; display: inline-block; margin-right: 15px;">
+<img src="img6.jpg" alt="App Screenshot" style="width: 48%; height: 500px; object-fit: cover; border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-bottom: 15px; display: inline-block; margin-right: 15px;">
+
 
 
    <h2 style="color: #222; font-size: 1.8em; margin-bottom: 15px;">Contributing</h2>
